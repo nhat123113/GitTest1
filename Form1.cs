@@ -34,10 +34,5 @@ namespace QLTV
             form.Show();
         }
 
-        private void button6_Click(object sender, EventArgs e)
-        {
-            FormTM form = new FormTM();
-            form.Show();
-        }
     }
 }
